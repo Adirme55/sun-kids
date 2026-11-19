@@ -9,10 +9,21 @@
 
 ## הורדה
 
+לוחצים על הכפתור של המחשב שלך:
+
+<p align="center">
+<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.dmg"><img src="https://img.shields.io/badge/הורדה_ל־Mac-Sun_kids.dmg-2f6fed?style=for-the-badge&logo=apple&logoColor=white" alt="הורדה ל־Mac" height="44"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.Setup.exe"><img src="https://img.shields.io/badge/הורדה_ל־Windows-Sun_kids_Setup.exe-2f6fed?style=for-the-badge&logo=windows&logoColor=white" alt="הורדה ל־Windows" height="44"></a>
+</p>
+
 | המחשב שלך | הקובץ |
 |---|---|
 | **Mac** (macOS 14 ומעלה) | [Sun kids.dmg](https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.dmg) |
 | **Windows** (10 או 11, 64 ביט) | [Sun kids Setup.exe](https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.Setup.exe) |
+
+> **שימו לב:** לא לוחצים על הכפתור הירוק **Code** / **Download ZIP**. הוא מוריד רק את הדף הזה, בלי התוכנה.
+> קובץ ה־Windows נפתח רק במחשב Windows, וקובץ ה־Mac רק במק.
 
 מה עוד צריך: מנוי בתשלום ל־**Claude** (Pro או Max) או ל־**ChatGPT** (Plus או Pro). כל שאלה נספרת במכסת המנוי שלך.
 
