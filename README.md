@@ -11,8 +11,8 @@
 
 | המחשב שלך | הקובץ |
 |---|---|
-| **Mac** (macOS 14 ומעלה) | [Sun kids.dmg](../../releases/latest/download/Sun.kids.dmg) |
-| **Windows** (10 או 11, 64 ביט) | [Sun kids Setup.exe](../../releases/latest/download/Sun.kids.Setup.exe) |
+| **Mac** (macOS 14 ומעלה) | [Sun kids.dmg](https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.dmg) |
+| **Windows** (10 או 11, 64 ביט) | [Sun kids Setup.exe](https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.Setup.exe) |
 
 מה עוד צריך: מנוי בתשלום ל־**Claude** (Pro או Max) או ל־**ChatGPT** (Plus או Pro). כל שאלה נספרת במכסת המנוי שלך.
 
