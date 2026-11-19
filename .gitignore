@@ -1,0 +1,5 @@
+Mac/
+Windows/
+*.dmg
+*.exe
+.DS_Store
