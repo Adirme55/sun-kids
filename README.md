@@ -12,9 +12,9 @@
 לוחצים על הכפתור של המחשב שלך:
 
 <p align="center">
-<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.dmg"><img src="https://img.shields.io/badge/הורדה_ל־Mac-Sun_kids.dmg-2f6fed?style=for-the-badge&logo=apple&logoColor=white" alt="הורדה ל־Mac" height="44"></a>
+<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.dmg"><img src="https://img.shields.io/badge/Download-Mac-2f6fed?style=for-the-badge&logo=apple&logoColor=white" alt="הורדה ל־Mac" height="44"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.Setup.exe"><img src="https://img.shields.io/badge/הורדה_ל־Windows-Sun_kids_Setup.exe-2f6fed?style=for-the-badge&logo=windows&logoColor=white" alt="הורדה ל־Windows" height="44"></a>
+<a href="https://github.com/Adirme55/sun-kids/releases/latest/download/Sun.kids.Setup.exe"><img src="https://img.shields.io/badge/Download-Windows-2f6fed?style=for-the-badge&logo=windows&logoColor=white" alt="הורדה ל־Windows" height="44"></a>
 </p>
 
 | המחשב שלך | הקובץ |
